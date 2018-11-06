@@ -1,4 +1,4 @@
-# WEB PAGE 🖥 THAT DISPLAY NUMBERS OF VISITORS 🚶🏻‍♂️
+# WEB PAGE 🖥 THAT DISPLAY NUMBERS OF VISITORS 🚶
 It's a node web app using this technologies:
   - Node 
   - Express
